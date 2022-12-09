@@ -9,7 +9,6 @@ Self taught coder with a strong numeric optimization background in Applied Mathe
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [diegocue.com](http://diegocue.com)
 * ✉️  You can contact me at [diegocuehdz@gmail.com](mailto:diegocuehdz@gmail.com)
-* 🚀  I'm currently working on [Get Nuup](http://getnuup.com)
 * 🧠  I'm learning Docker, VueJs, RxSwift
 * 🤝  I'm open to collaborating on Open Source iOS projects, Data Science Integrations
 * ⚡  Session Guitarist and Luthier
